@@ -1,0 +1,31 @@
+.nav-link{
+    color: white;
+    cursor: pointer;
+    font-size: 1.3rem;
+    margin: 0 3rem 0 3rem;
+    border-bottom: 1px solid #01c38d;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+.navbar{
+    margin: 7rem;
+    background-color: transparent !important;
+    width: 83%;
+}
+.nav-link:hover{
+    transition: 0.3s ease all;
+    color: #01c38d;
+    border-bottom: 1px solid transparent;
+}
+.iam{
+    font-size: 1.5rem;
+    line-height: 0;
+    color: #01c38d;
+}
+.code{
+    color: #01c38d;
+    font-size: 2rem;
+}
