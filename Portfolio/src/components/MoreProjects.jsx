@@ -178,6 +178,7 @@ const MoreProjects = () => {
                             <h3 className='title-project title-project-2'>Portfolio</h3>
                             <img className='img-skills-projects img-skills-projects-2' src={imgHTML} alt="HTML" />
                             <img className='img-skills-projects img-skills-projects-2' src={imgCSS} alt="CSS" />
+                            <img className='img-skills-projects img-skills-projects-2' src={imgSASS} alt="SASS" />
                         </div>
                         <div className='container-icon-moreprojects'>
                             <a target='blank' href="https://github.com/tinoz2/portfolio.git"><img className='icon-moreprojects' src={imgGh} alt="LINK GITHUB PORTFOLIO" /></a>
