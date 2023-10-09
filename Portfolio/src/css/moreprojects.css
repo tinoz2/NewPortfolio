@@ -2,7 +2,7 @@
     display: grid;
     place-items: center;
     grid-template-columns: repeat(3, 1fr);
-    margin: 0 25rem 0 15rem;
+    margin: 0 11rem 0 11rem;
 }
 .img-projects-2{
     width: 300px;

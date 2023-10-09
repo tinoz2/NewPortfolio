@@ -16,5 +16,8 @@
 .container-button-certificate{
     display: grid;
     place-items: center;
-    margin: 2rem 0 2rem 0;
+    margin: 2rem 0 3rem 0;
+}
+.icon-certificate{
+    border-radius: 1rem;
 }

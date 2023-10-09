@@ -29,3 +29,6 @@
     color: #01c38d;
     font-size: 2rem;
 }
+.navbar-toggler{
+    border: 2px solid #01c38d;
+}

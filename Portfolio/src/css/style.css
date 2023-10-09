@@ -22,3 +22,48 @@ html body{
     repeating-conic-gradient(from 30deg,var(--c1) 0 60deg,var(--c2) 0 120deg,var(--c3) 0 180deg);
     background-size: var(--s) calc(var(--s)*0.577);
 }
+@media (max-width: 1500px){
+    .navbar{
+        margin: 2rem;
+    }
+    .img-main{
+        width: 250px !important;
+    }
+    .container-info-main{
+        width: 100% !important;
+    }
+    .container-main{
+        display: block !important;
+        margin: 3rem;
+    }
+    .container-social{
+        display: none !important;
+    }
+    .container-img-certificate{
+        display: flex !important;
+        flex-direction: column;
+        gap: 2rem;
+        margin: 0 !important;
+    }
+    .img-certificate{
+        width: 80% !important;
+    }
+    .container-projects{
+        margin: 1rem !important;
+        display: block!important;
+    }
+    .container-moreprojects{
+        margin: 0 !important;
+        display: block !important;
+    }
+    .container-info-projects{
+        margin: 5rem;
+    }
+    .title-main{
+        line-height: 1 !important;
+        margin: 0.5rem 0 2rem 0;
+    }
+    .img-projects-2{
+        width: 100% !important;
+    }
+}

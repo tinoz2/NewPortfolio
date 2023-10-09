@@ -12,7 +12,7 @@ const Certificates = () => {
                     <img className='img-certificate' src={certificateJS} alt="CODERHOUSE CERTIFICATE" />
                 </div>
                 <div className='container-button-certificate'>
-                    <a target='blank' href="https://www.coderhouse.com/"><img className='icon-moreprojects' src={imgLink} alt="CODERHOUSE CERTIFICATE LINK" /></a>
+                    <a target='blank' href="https://www.coderhouse.com/"><img className='icon-moreprojects icon-certificate' src={imgLink} alt="CODERHOUSE CERTIFICATE LINK" /></a>
                 </div>
             </div>
         </>
