@@ -96,7 +96,7 @@ const MoreProjects = () => {
                             <hr />
                         </div>
                         <div className='info-projects info-projects-2'>
-                            <h3 className='title-project title-project-2'>RockPaperScissors</h3>
+                            <h3 className='title-project title-project-2'>RockPaperAndScissors</h3>
                             <img className='img-skills-projects img-skills-projects-2' src={imgHTML} alt="HTML" />
                             <img className='img-skills-projects img-skills-projects-2' src={imgCSS} alt="CSS" />
                             <img className='img-skills-projects img-skills-projects-2' src={imgJS} alt="JAVASCRIPT" />

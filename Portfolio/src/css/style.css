@@ -67,3 +67,11 @@ html body{
         width: 100% !important;
     }
 }
+@media (max-width: 576px){
+    .icons-projects{
+        display: flex !important;
+    }
+    .github-main{
+        width: 40px !important;
+    }
+}
