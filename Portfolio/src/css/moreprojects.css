@@ -25,7 +25,6 @@
     padding: 0.2rem;
     cursor: pointer;
     transition: .3s ease all;
-    border-radius: 2rem;
 }
 .container-icon-moreprojects{
     display: flex;

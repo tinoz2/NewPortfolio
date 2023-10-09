@@ -1,0 +1,20 @@
+.h3-certificates{
+    text-align: center;
+    margin: 3rem 0 3rem 0;
+}
+.container-img-certificate{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    place-items: center;
+    margin: 5rem 17.5rem 0 17.5rem;
+}
+.img-certificate{
+    width: 500px;
+    border: 2px solid white;
+    border-radius: 1rem;
+}
+.container-button-certificate{
+    display: grid;
+    place-items: center;
+    margin: 2rem 0 2rem 0;
+}
