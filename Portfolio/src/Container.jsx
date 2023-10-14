@@ -1,8 +1,8 @@
 import NavBar from "./components/NavBar"
 import Main from "./components/Main"
 import Skills from "./components/Skills"
-import Projects from "./components/Projects"
-import MoreProjects from "./components/MoreProjects"
+import MoreProjects2 from "./components/MoreProjects2"
+import Projects2 from "./components/Projects2"
 import FooterContact from "./components/FooterContact"
 import Certificates from "./components/Certificates"
 import './css/navbar.css'
@@ -20,8 +20,8 @@ const Container = () => {
             <NavBar />
             <Main />
             <Skills />
-            <Projects />
-            <MoreProjects />
+            <Projects2 />
+            <MoreProjects2 />
             <Certificates />
             <FooterContact />
         </>

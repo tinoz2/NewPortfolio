@@ -8,8 +8,8 @@ const NavBar = () => {
             <Navbar expand="lg" className="bg-body-tertiary navbar">
                 <Container>
                     <div>
-                    <span className='iam'>I'm</span>
-                    <h1>Santino <span className='code'>&lt;/&gt;</span></h1>
+                        <span className='iam'>I'm</span>
+                        <h1>Santino <span className='code'>&lt;/&gt;</span></h1>
                     </div>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
