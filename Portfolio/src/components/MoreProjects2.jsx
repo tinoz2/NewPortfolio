@@ -10,9 +10,6 @@ import imgMR3 from '../img/Screenshot_6.png'
 import imgMR4 from '../img/Screenshot_7.png'
 import imgMR5 from '../img/Screenshot_8.png'
 import imgMR6 from '../img/Screenshot_9.png'
-import imgMR7 from '../img/Screenshot_10.png'
-import imgMR8 from '../img/Screenshot_11.png'
-import imgMR9 from '../img/Screenshot_12.png'
 
 const MoreProjects2 = () => {
     return (
@@ -32,14 +29,8 @@ const MoreProjects2 = () => {
                     linkPage={"https://rickandmortyapibytino.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgJS} />
                 <MoreProjects title='Rock Paper Scissor' img={imgMR5} linkGit={"https://github.com/tinoz2/rock-paper-scissors.git"}
                     linkPage={"https://rockpaperscissorstino.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgJS} />
-                <MoreProjects title='Task list' img={imgMR9} linkGit={"https://github.com/tinoz2/TaskList.git"}
-                    linkPage={"https://tasklistbytino.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgJS} />
                 <MoreProjects title='Whiskey page' img={imgMR4} linkGit={"https://github.com/tinoz2/zyzzbrah.git"}
                     linkPage={"https://whiskeytino.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgSASS} />
-                <MoreProjects title='Pomodoro timer' img={imgMR8} linkGit={"https://github.com/tinoz2/pomodoro.git"}
-                    linkPage={"https://pomowork.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgJS} />
-                <MoreProjects title='App interface' img={imgMR7} linkGit={"https://github.com/tinoz2/InterfazMobileApp.git"}
-                    linkPage={"https://interfaztino.netlify.app/"} imgTec1={imgHTML} imgTec2={imgCSS} imgTec3={imgJS} />
             </div>
         </>
     )
