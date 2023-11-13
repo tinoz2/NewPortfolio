@@ -10,7 +10,11 @@ const Main = () => {
                 <div className='container-info-main'>
                     <small className='es-en'>English-Spanish</small>
                     <h2 className='title-main'>Front-End Developer.</h2>
-                    <p className='p-main'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione laborum ab odit maxime beatae ullam dicta, cum quia quod pariatur aliquam rerum corporis rem non dolorum. Dolorem nam dolor itaque eos, totam porro fuga possimus adipisci, magnam distinctio sequi facilis non expedita nesciunt. Quis vitae quia reiciendis placeat temporibus quisquam?</p>
+                    <p className='p-main'>¡Hola, soy Santino, desarrollador web especializado en React!
+                    <br />
+                        Bienvenido a mi rincón digital, donde la magia de React se encuentra con el diseño web. Mi pasión es crear experiencias dinámicas y atractivas. Explora mi portfolio para descubrir cómo fusiono la creatividad con la potencia de React para impulsar proyectos excepcionales.</p>
+                        <br />
+                        <p>¡Gracias por tu visita!</p>
                     <div className='container-social'>
                         <a target='blank' href="https://www.linkedin.com/in/santino-ramos-conti-57a3a6279/"><img className='github-main' src={imgLi} alt="Linkedin" /></a>
                         <a target='blank' href="https://github.com/tinoz2"><img className='github-main' src={imgGhs} alt="Github" /></a>

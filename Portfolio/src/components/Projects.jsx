@@ -1,7 +1,7 @@
 import imgGh from '../img/ghh.svg'
 import imgLink from '../img/link.svg'
 
-const Projects = ({imgProject, gitLink, pageLink, titleP, descriptionP, language1, language2, language3 }) => {
+const Projects = ({imgProject, gitLink, pageLink, titleP, descriptionP, language1, language2, language3, language4 }) => {
     return (
         <>
             <section id='projects'>
@@ -20,6 +20,7 @@ const Projects = ({imgProject, gitLink, pageLink, titleP, descriptionP, language
                         <img className='img-skills-projects' src={language1} alt="HTML" />
                         <img className='img-skills-projects' src={language2} alt="CSS" />
                         <img className='img-skills-projects' src={language3} alt="JAVASCRIPT" />
+                        {language4 && <img className='img-skills-projects' src={language4} alt="JAVASCRIPT" />}
                     </div>
                 </div>
             </section>
